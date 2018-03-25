@@ -1,0 +1,8 @@
+nav a:hover{
+  color: green;
+  background-color: aqua;
+}
+
+nav a.active{
+  color:darkgrey;
+}
